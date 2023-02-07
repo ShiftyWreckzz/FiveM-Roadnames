@@ -8,7 +8,7 @@ I've Include the main highways/freeways as I have found most people like to chan
 ## Standalone
 1. Drag and drop the files inside `[standalone]` into your server files. **(DO NOT DRAG THE WHOLE FOLDER IN)**
 
-2. ensure roadnames in the cfg
+2. Ensure roadnames in the cfg
 
 (optional)
 
