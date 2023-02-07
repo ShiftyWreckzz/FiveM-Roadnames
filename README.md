@@ -1,7 +1,9 @@
 # FiveM-Roadnames
 Allows you to change the street names of any street/road in FiveM
 
-Pretty self-explanatory, best used with QB-Core. 
+Pretty self-explanatory, best used with QB-Core.
+
+I've Include the main highways/freeways as I have found most people like to changes those.
 
 ## Standalone
 1. Drag and drop the files inside `[standalone]` into your server files. **(DO NOT DRAG THE WHOLE FOLDER IN)**
