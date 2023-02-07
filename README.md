@@ -9,6 +9,7 @@ Pretty self-explanatory, best used with QB-Core.
 2. ensure roadnames in the cfg
 
 (optional)
+
 3. If you want to add more street names find the hash, pick the desired name you want and replaces the two area from the example below
 
 `AddTextEntryByHash(HASH, "Name of road")`
@@ -17,6 +18,7 @@ Pretty self-explanatory, best used with QB-Core.
 1. Drag and drop the files inside `[QB-Core]` into your `qb-smallresources/client`. **(DO NOT DRAG THE WHOLE FOLDER IN)**
 
 (optional)
+
 2. If you want to add more street names find the hash, pick the desired name you want and replaces the two area from the example below
 
 `AddTextEntryByHash(HASH, "Name of road")`
